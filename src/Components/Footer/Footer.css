@@ -1,0 +1,14 @@
+.footerDesign {
+
+    height: 6em;
+
+    width: 100vw;
+
+    background-color: darkcyan;
+
+    display: flex;
+
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
